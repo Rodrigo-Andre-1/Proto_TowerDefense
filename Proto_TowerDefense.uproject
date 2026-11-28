@@ -10,6 +10,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "FCTween",
+			"Enabled": false
 		}
 	]
 }
